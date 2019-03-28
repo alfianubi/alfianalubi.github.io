@@ -1,0 +1,38 @@
+# Site settings
+title: "Alfian Al Ayubi"
+email: alfianalubi@gmail.com
+description: "A journey of my life."
+baseurl: ""
+url: "http://alfianalubi.web.id/"
+title_description: "Welcome to my blog. I am a student from one of the private campuses in the city of Bandung. I majored in informatics engineering related to the world of Information Systems Technology and here I will tell you all the events that I am currently experiencing."
+title_image: "https://pbs.twimg.com/profile_images/1111354776883589120/q0VdHwly_400x400.png"
+google_analytics: "UA-20365477-4"
+disqus_account: ""
+github_repository: https://github.com/alfianubi/carte-noire
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: alfianS41
+github_username:  alfianubi
+instagram_username: alfianalubi
+reddit_username: 
+linkedin_link: https://www.linkedin.com/in/alfian-a-1a609b9a/
+google_plus_link: https://plus.google.com/116020935154858112517
+stackoverflow_link: https://stackoverflow.com/users/11274199/alfian-al-ayubi
+xing_link:
+facebook_link: https://www.facebook.com/alfianubi
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/alfianS41\">Alfian Al Ayubi</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/alfianubi/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
