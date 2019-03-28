@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      About my self
+title:      About My Self
 date:       2019-03-29 03:55:1
 author:     Alfian Al Ayubi
 summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
