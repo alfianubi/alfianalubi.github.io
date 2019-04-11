@@ -6,11 +6,7 @@ author:     Alfian Al Ayubi
 summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
 categories: jekyll
 thumbnail:  ""
-tags:
- - welcome
- - to
- - carte
- - noire
+tags: --- alfianalubi ---
 ---
 
 The Journey.
@@ -19,6 +15,6 @@ This is my story that will accompany your steps. Your compilation failed in navi
 
 Now, I will explain everything about how to get up from adversity or recover, which certainly makes you mentally very chaotic. Look up, if you are given something that is certainly granted. What will you ask? (Answer in heart). During your request, the first said word is 'Thank you'. And the compilation of your requests was granted right away, and your inner spirit will grow because you have got something you want.
 
-Please use/copy/share on alfianalubi.web.id!
+<!-- Please use/copy/share on alfianalubi.web.id!
 
-[1]: http://www.jacobtomlinson.co.uk/
+[1]: http://www.jacobtomlinson.co.uk/ -->
